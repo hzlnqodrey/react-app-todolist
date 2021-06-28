@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// note: index.js ini penghubung antara App.js dengan index.html
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
